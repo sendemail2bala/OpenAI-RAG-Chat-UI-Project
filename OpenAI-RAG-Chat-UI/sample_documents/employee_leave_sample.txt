@@ -1,0 +1,11 @@
+Project: Employee Leave Management System
+
+The Employee Leave Management System allows employees to apply for leave online.
+Managers can approve or reject leave requests.
+Employees can check their leave balance.
+The application uses Python, PostgreSQL and REST APIs.
+
+Benefits:
+1. Reduces manual work.
+2. Improves leave tracking.
+3. Provides faster approvals.
